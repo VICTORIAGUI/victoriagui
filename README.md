@@ -1,5 +1,5 @@
 ## Oie! Seja Bem-Vindo!
-- 🌱 Hoje estou estudando JavaScript
+- 🌱 Estudando JavaScript e Python
 - 📫 Contate-me no email: victoriagui.santos@gmail.com
 - 😄 Pronomes: ela/dela
 
