@@ -1,4 +1,5 @@
 ## Oie! Seja Bem-Vindo!
+- 🙎🏾‍♀ Desenvolvedora FullStack orientada para os detalhes em busca de experiência profissional. Facilidade a trabalhar com HTML, CSS, Javascript, JQuery, e TypeScript. Experiente tanto em projetos independentes como colaborativos, com ênfase no desenvolvimento de páginas websites.
 - 🌱 Estudando JavaScript e Python
 - 📫 Contate-me no email: victoriagui.santos@gmail.com
 - 😄 Pronomes: ela/dela
